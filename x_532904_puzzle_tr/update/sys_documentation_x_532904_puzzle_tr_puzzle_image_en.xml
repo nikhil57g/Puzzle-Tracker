@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="number_of_pieces" label="Number of pieces" language="en" table="x_532904_puzzle_tr_puzzle">
+    <sys_documentation element="image" label="Image" language="en" table="x_532904_puzzle_tr_puzzle">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>number_of_pieces</element>
+            <element>image</element>
             <help/>
             <hint/>
-            <label>Number of pieces</label>
+            <label>Image</label>
             <language>en</language>
             <name>x_532904_puzzle_tr_puzzle</name>
-            <plural>Number of pieces</plural>
+            <plural>Images</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-24 22:48:32</sys_created_on>
-            <sys_id>da36bf932f7920103f3b136a2799b6e8</sys_id>
+            <sys_created_on>2021-01-24 23:23:37</sys_created_on>
+            <sys_id>e98533932f7920103f3b136a2799b600</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Number of pieces</sys_name>
+            <sys_name>Image</sys_name>
             <sys_package display_value="Puzzle Tracker" source="x_532904_puzzle_tr">faf7e3972f3920103f3b136a2799b62c</sys_package>
             <sys_policy/>
             <sys_scope display_value="Puzzle Tracker">faf7e3972f3920103f3b136a2799b62c</sys_scope>
-            <sys_update_name>sys_documentation_x_532904_puzzle_tr_puzzle_number_of_pieces_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_532904_puzzle_tr_puzzle_image_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-24 22:48:32</sys_updated_on>
+            <sys_updated_on>2021-01-24 23:23:37</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
